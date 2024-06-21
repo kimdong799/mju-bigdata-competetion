@@ -7,9 +7,3 @@
 - 비정형 데이터를 통한 명지인의 포스트 코로나 심리분석 및 적합 상담 프로그램 도출
 - TEAM 무한루프
 - 김동현, 김민지, 이희경, 정진규
-
-
-import pandas as pd
-import matplotlib.pyplot as plt
-from gensim.models.word2vec import Word2Vec
-from konlpy.tag import Okt
